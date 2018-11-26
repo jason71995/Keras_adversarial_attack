@@ -12,7 +12,8 @@ training loss : 0.05176
 
 training acc  : 98.6%
 
-|     | Image | Loss | Acc |
-|:---:| :---: | :---: | :---: |
-|Normal  | ![alt test](https://i.imgur.com/1273dzb.png) | 0.05346 | 98.32% |
-|Attacked| ![alt test](https://i.imgur.com/mga1LSG.png) | 3.007   | 24.86% |
+|     | Testing | Attacked |
+|:---:| :---: | :---: |
+|Image| ![alt test](https://i.imgur.com/1273dzb.png) | ![alt test](https://i.imgur.com/mga1LSG.png) |
+|Loss|0.05346|3.007|
+|Acc|98.32%|24.86%|
