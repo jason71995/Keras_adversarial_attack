@@ -4,6 +4,8 @@
 
 Implementation of [(2014) Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572).
 
+**ATTENTION: This repository is no longer maintained, please see [here](https://github.com/jason71995/adversarial_attack) for implementations in Tensorflow 2.0 and Keras**
+
 ## Results
 
 Results of 5 epochs
